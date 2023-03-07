@@ -1,4 +1,4 @@
-# Writing Assistant Chrome Extension
+# GPT3 Tale Generator Chrome Extension
 
 This is a Chrome extension that uses OpenAI's GPT-3 language model to generate personalized tales for users. The extension requires the user to enter their OpenAI API key to authenticate and access the GPT-3 API.
 
@@ -9,8 +9,8 @@ To use this Chrome extension, you need to have an OpenAI API key. You can sign u
 After you have your API key, fork and clone this repository to your local machine and install the required dependencies using npm:
 
 ```
-git clone https://github.com/YOUR_USERNAME/gpt3-writer-extension-starter.git
-cd gpt3-writer-extension-starter
+git clone https://github.com/YOUR_USERNAME/gpt3-tale-generator.git
+cd gpt3-tale-generator
 npm install
 ```
 
