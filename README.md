@@ -9,8 +9,8 @@ To use this Chrome extension, you need to have an OpenAI API key. You can sign u
 After you have your API key, fork and clone this repository to your local machine and install the required dependencies using npm:
 
 ```
-git clone https://github.com/YOUR_USERNAME/gpt3-tale-generator.git
-cd gpt3-tale-generator
+git clone https://github.com/YOUR_USERNAME/gpt3-tale-generator-extension.git
+cd gpt3-tale-generator-extension
 npm install
 ```
 
